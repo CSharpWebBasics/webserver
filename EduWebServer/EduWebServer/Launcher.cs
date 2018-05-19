@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EduWebServer
+﻿namespace EduWebServer
 {
     public class Launcher
     {

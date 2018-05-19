@@ -1,10 +1,10 @@
-﻿using EduWebServer.Server.HTTP.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EduWebServer.Server.HTTP
+﻿namespace EduWebServer.Server.HTTP
 {
+    using System;
+    using System.Collections.Generic;
+
+    using Contracts;
+    
     public class HttpHeaderCollection : IHttpHeaderCollection
     {
         private readonly Dictionary<string, HttpHeader> headers;

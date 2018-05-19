@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EduWebServer.Server.HTTP
+﻿namespace EduWebServer.Server.HTTP
 {
     public class HttpHeader
     {

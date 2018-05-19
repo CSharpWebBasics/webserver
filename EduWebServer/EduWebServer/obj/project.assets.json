@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Biser\\.nuget\\packages\\": {},
+    "C:\\Users\\r.novachkov\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\CSharpWebGit\\WebServer\\EduWebServer\\EduWebServer\\EduWebServer.csproj",
+      "projectUniqueName": "D:\\GitHubRepositories\\webserver\\EduWebServer\\EduWebServer\\EduWebServer.csproj",
       "projectName": "EduWebServer",
-      "projectPath": "G:\\CSharpWebGit\\WebServer\\EduWebServer\\EduWebServer\\EduWebServer.csproj",
-      "packagesPath": "C:\\Users\\Biser\\.nuget\\packages\\",
-      "outputPath": "G:\\CSharpWebGit\\WebServer\\EduWebServer\\EduWebServer\\obj\\",
+      "projectPath": "D:\\GitHubRepositories\\webserver\\EduWebServer\\EduWebServer\\EduWebServer.csproj",
+      "packagesPath": "C:\\Users\\r.novachkov\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHubRepositories\\webserver\\EduWebServer\\EduWebServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Biser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\r.novachkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

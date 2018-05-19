@@ -1,5 +1,4 @@
-﻿
-namespace EduWebServer.Server.Enums
+﻿namespace EduWebServer.Server.Enums
 {
     public enum HttpRequestMethod
     {
