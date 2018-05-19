@@ -12,7 +12,6 @@
     <Folder Include="Server\Enums\" />
     <Folder Include="Server\Exceptions\" />
     <Folder Include="Server\Handlers\Contracts\" />
-    <Folder Include="Server\HTTP\Contracts\" />
     <Folder Include="Server\HTTP\Response\" />
     <Folder Include="Server\Routing\Contracts\" />
   </ItemGroup>
